@@ -36,7 +36,7 @@ The developed system provides:
 
 The complete thesis can be found in:
 
-/thesis/Joliver_Kozlowski_Weather_Balloon_Telemetry_System.pdf
+weather-balloon-telemetry-system/TG_Joliver_Kozlowski.pdf
 
 ## Author
 
