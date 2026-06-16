@@ -2,6 +2,8 @@
 
 Undergraduate thesis developed at the Instituto Tecnológico de Aeronáutica (ITA) in 2022.
 
+📄 [Download the complete thesis (PDF)](TG_Joliver_Kozlowski.pdf)
+
 This project presents the design, implementation, and testing of a low-cost telemetry system intended for scientific payloads carried by stratospheric weather balloons.
 
 The developed system provides:
